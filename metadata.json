@@ -1,0 +1,6 @@
+{
+  "name": "CoRide",
+  "description": "Smart College Ride Sharing Platform with Google Maps integration, ID scanning, fare bidding, live tracking, and fuel calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
